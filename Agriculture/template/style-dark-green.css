@@ -1,0 +1,102 @@
+::-moz-selection 	{background:#ff0000;color:#fff;}
+::selection 	 		{background:#ff0000;color:#fff;}
+
+html					{-webkit-tap-highlight-color:#ff0000;}
+
+a,.more,.services.boxed .details h4 a:hover,.services.iconic h3,.content a,.description a:hover,.description a:focus,.microlocations p a:hover,.microlocations p a:focus,.hentry .entry-content h2 a:hover,.hentry .entry-content h2 a:focus,.footer .contact-data a:hover,.footer .contact-data a:focus,.xdsoft_datetimepicker  .xdsoft_calendar td.xdsoft_today,.faqs .expanded,.faqs .expanded:after 		{color:#ff0000;}
+.color{background-color:#ff0000 !important;}
+
+.slide22 {
+    background: #ff0000;}
+	.sidebar.left li.active::after{border-color:transparent transparent transparent #ff0000;border-width: 18px 0 20px 15px;
+    right: -15px;}
+/*	.search2-btn{background: rgba(0, 0, 0, 0) url("../images/search-red.png") no-repeat scroll center top;}
+*/	.categories li.active a, .categories li:hover a{background:#ff0000;}
+	table th { background:#ff0000 none repeat scroll 0 0}
+	header.relative {  background-color:#fff ;}
+	section.header_bottom_part.bg_light { background-color: #31401F ; }
+						
+.navbar-default {  background:#40502C  !important;}
+section.footer_bottom_part.t_align_c.color_grey.bg_light_4.fw_light{ background-color: #40502C ; color:#fff;}
+
+.services i {color: #3C281D   !important;}
+.w3_megamenu .w3_megamenu-content{background: #40502C  !important;}
+
+
+footer.bg_light_3 {background: #31401F !important;}
+
+.sidebtn {    background: #31401F;}
+
+
+#changesize input {background-color:#3C281D; color:#fff}
+.input2 {border: 1px solid #31401F;}
+
+.color_grey_light{ color:#31401F}
+
+.logo img {background:#543a2b !important}
+
+
+#cssmenu {
+ background:#3C281D !important;
+}
+#cssmenu ul ul li a { background: #3C281D !important;}
+
+.list_carousel .prev {background: #3C281D !important;}
+.list_carousel .next {background: #3C281D !important;}
+
+
+
+#panel {
+background: #3C281D !important;
+}
+
+.btn-slide {
+     background:#3C281D url("../images/slider/up.png") no-repeat 20px;
+    }
+.up{
+ background:#3C281D url("../images/slider/down.png") no-repeat 20px;
+}
+
+
+a.morebtn {
+background: #3C281D !important;
+}
+
+
+#sidebarContent ul {
+    background: #31401F !important;
+}
+#sidebarContent ul li {
+    border-bottom: 1px solid #fff;
+}
+
+	#sidebarContent ul li a:hover { color:#000; text-decoration:none; }  
+	
+	.color_dark{ color: #31401F;} 
+	.main_menu .current > a,.md_no-touch .main_menu li:hover > a,.main_menu li:hover > a i[class|="icon"]{ color:#000}
+	.main_menu > li > a:after {
+    background: #000;
+}
+.main_menu > li > a { color:#fff}
+.sub_menu .container3d > a {
+    color: #fff;
+}
+.bg_light{background: #31401F !important;}
+.sub_menu a {
+    color: #fff;
+}
+#menu_button { color: #fff;}
+
+@media all and (max-width: 768px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px), only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min-resolution: 192dpi) and (max-width: 1024px), only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
+
+
+#cssmenu .submenu-button.submenu-opened {
+    background: #000 !important;
+}
+
+#cssmenu ul ul li a { background:#2B1B12 !important}
+
+#cssmenu ul ul ul li a { background:#21140D !important}
+
+	
+}

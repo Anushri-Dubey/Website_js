@@ -1,0 +1,195 @@
+/* 04 COLOR SPECIFICS */        
+::-moz-selection {
+background:#db8734;
+color:#fff;
+}
+::selection {
+	background: #db8734;
+	color: #fff;
+}
+html {
+	-webkit-tap-highlight-color: #db8734;
+}
+a, .more, .services.boxed .details h4 a:hover, .services.iconic h3, .content a, .description a:hover, .description a:focus, .microlocations p a:hover, .microlocations p a:focus, .hentry .entry-content h2 a:hover, .hentry .entry-content h2 a:focus, .footer .contact-data a:hover, .footer .contact-data a:focus, .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_today, .faqs .expanded, .faqs .expanded:after {
+	color: #db8734;
+}
+.color {
+	background-color: #db8374 !important;
+}
+
+.logo img {background:#e2984f !important;}
+
+#changesize input {background-color: #db8734; color:#fff}
+.input2 {border: 1px solid #db8734;}
+.color_grey_light{ color:#db8734}
+
+
+.pager a.current, .pager a:hover, .pager a:focus, table.hover tr:hover td, .tabs li.active a, .social li:hover, .data th, .tabs li a:hover, .tabs li a:focus, .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default, .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current, .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box >div >div.xdsoft_current, .xdsoft_datetimepicker .xdsoft_label > .xdsoft_select > div > .xdsoft_option.xdsoft_current, .xdsoft_datetimepicker .xdsoft_label > .xdsoft_select > div > .xdsoft_option:hover, .slicknav_menu .slicknav_icon-bar {
+	background-color: #191f26;
+}
+.xdsoft_datetimepicker .xdsoft_calendar td:hover, .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box >div >div:hover {
+	background: #db8734 !important;
+}
+.btn:hover, .btn:focus {
+	background: #db8734 !important;
+	color: #fff !important;
+}
+.more:after, .single a:after {
+	border-bottom: 2px dotted #db8734;
+}
+.tabs li.active a:after {
+	border-color: #db8734 transparent transparent transparent;
+}
+blockquote:before {
+	position: absolute;
+	left: 20px;
+	background: url(../images/icons-pink.png) -62px 0 no-repeat;
+}
+.testimonials h6:before {
+	position: relative;
+	display: inline-block;
+	left: -16px;
+	background: url(../images/icons-cream.png) -62px 0 no-repeat;
+}
+.footer .phone {
+	background-image: url(../images/icons-cream.png) !important;
+	background-position: 0 0;
+}
+.footer .email {
+	background-image: url(../images/icons-cream.png) !important;
+	background-position: -31px -4px;
+}
+.people {
+	background-image: url(../images/icons-cream.png) !important;
+	background-position: 0 -30px;
+}
+.luggage {
+	background-image: url(../images/icons-cream.png) !important;
+	background-position: -40px -30px;
+}
+.time {
+	background-image: url(../images/icons-cream.png) !important;
+	background-position: -80px -30px;
+}
+.main-nav ul > li.active > a, .main-nav ul > li.active > a:hover, .main-nav ul > li.active > a:focus, .main-nav ul > li:hover > a, .main-nav ul > li:focus > a {
+	color: #191f26;
+}
+.slide22 {
+	background: #db8734;
+}
+.sidebar.left li.active::after {
+	border-color: transparent transparent transparent #db8734;
+	border-width: 18px 0 20px 15px;
+	right: -15px;
+}
+.categories li.active a, .categories li:hover a {
+	background: #db8734;
+}
+table th {
+	background: #db8734 none repeat scroll 0 0
+}
+section.header_bottom_part.bg_light {
+	background-color: #db8734;
+}
+.navbar-default {
+	background-color: #db8734 !important;
+}
+
+#cssmenu {
+   background:#db8734 !important;
+}
+#cssmenu ul ul li a { background:#db8734 !important;}
+
+#cssmenu ul ul li a {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.31);
+}
+
+.list_carousel .prev { background:#db8734 !important;}
+.list_carousel .next { background:#db8734 !important;}
+
+section.footer_bottom_part {
+	background-color: #db8734;
+}
+.services i {
+	color: #db8734 !important;
+}
+.w3_megamenu .w3_megamenu-content {
+	background-color: #db8734 !important;
+}
+
+
+
+#panel {
+background-color: #db8734 !important;
+}
+
+.btn-slide {
+     background: #db8734 url("../images/slider/up.png") no-repeat 20px;
+    }
+.up{
+ background: #db8734 url("../images/slider/down.png") no-repeat 20px;
+}
+
+
+a.morebtn {
+background: #db8734 !important;
+}
+
+
+
+
+footer.bg_light_3 {
+	background-color: #db8734 !important;
+}
+.sidebtn {
+	background: #db8734 !important;
+}
+#sidebarContent ul {
+	background: #db8734 !important;
+}
+#sidebarContent ul li {
+	border-bottom: 1px solid #fff;
+}
+#sidebarContent ul li a:hover {
+	color: #000;
+	text-decoration: none;
+}
+.color_dark {
+	color: #DB8734;
+}
+.main_menu .current > a, .md_no-touch .main_menu li:hover > a, .main_menu li:hover > a i[class|="icon"] {
+	color: #000
+}
+.main_menu > li > a:after {
+	background: #000;
+}
+.main_menu > li > a {
+	color: #fff
+}
+.sub_menu .container3d > a {
+	color: #fff;
+}
+.bg_light {
+	background: #db8734 !important;
+}
+.sub_menu a {
+	color: #fff;
+}
+#menu_button {
+	color: #fff;
+}
+
+
+@media all and (max-width: 768px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px), only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min-resolution: 192dpi) and (max-width: 1024px), only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
+
+
+#cssmenu .submenu-button.submenu-opened {
+    background: #A55D17 !important;
+}
+
+#cssmenu ul ul li a { background: #A45D19  !important;}
+
+#cssmenu ul ul ul li a { background:#986431 !important}
+
+	
+}
